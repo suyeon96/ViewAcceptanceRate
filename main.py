@@ -60,7 +60,8 @@ def print_console(result: list):
 if __name__ == '__main__':
     jinhakrepo = [['숭실대학교', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11010151.html', '#SelType407 > table'],
                   ['숙명여자대학교', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio10980381.html', '#SelType480 > table'],
-                  ['한양대학교', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11650381.html', '#SelType4L > table'],
+                  ['한양대학교', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11640121.html', '#SelType4M > table'],
+                  ['한양대(에리카)', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11650381.html', '#SelType4L > table'],
                   ['동국대학교', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio10550201.html', '#SelType41AK > table.tableRatio3'],
                   ['홍익대학교', 'http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11720211.html', '#SelType45101 > table']
     ]

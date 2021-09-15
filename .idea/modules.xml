@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LiveCompetitionRate.iml" filepath="$PROJECT_DIR$/.idea/LiveCompetitionRate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViewAcceptanceRate/.idea/ViewAcceptanceRate.iml" filepath="$PROJECT_DIR$/../ViewAcceptanceRate/.idea/ViewAcceptanceRate.iml" />
     </modules>
   </component>
 </project>
