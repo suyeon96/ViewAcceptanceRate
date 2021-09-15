@@ -5,5 +5,5 @@
 모든 학교를 찾아서 넣으려다 귀찮아서 몇몇 학과만 넣어놓음.
 1년 후 다시 관심이 생긴다면 웹으로 뿌려서 볼 수 있게 배포할 예정.
 
-2021.09.14 14시 기준 결과
-![image](https://user-images.githubusercontent.com/64878866/133209466-c2159d0c-2dc8-453e-9e4a-cf8163d7e08b.png)
+(preview - 2021.09.15 14시 기준 결과)
+![image](https://user-images.githubusercontent.com/64878866/133373837-8a41fdf4-8b96-42da-92a0-7d94283b515e.png)
